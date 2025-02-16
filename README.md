@@ -17,3 +17,5 @@ Se utilizó **CSS Grid** para organizar los botones y **Flexbox** para centrar l
 | `gap: 10px` | Añade espacio entre los botones. |
 | `justify-content: center` | Centra los elementos horizontalmente. |
 | `align-items: center` | Centra los elementos verticalmente. 
+
+![Captura de la página](IMG/calculadora.png)
